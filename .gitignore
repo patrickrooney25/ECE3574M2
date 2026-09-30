@@ -1,0 +1,11 @@
+# Build directory and generated binary artifacts
+build/
+bin/
+lib/
+out/
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.dll
