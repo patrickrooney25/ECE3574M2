@@ -1,0 +1,6 @@
+C:/Users/patri/Downloads/ECE_3574/ECE374M2/build/CMakeFiles/aiws_m2.dir
+C:/Users/patri/Downloads/ECE_3574/ECE374M2/build/CMakeFiles/public_tests.dir
+C:/Users/patri/Downloads/ECE_3574/ECE374M2/build/CMakeFiles/student_tests.dir
+C:/Users/patri/Downloads/ECE_3574/ECE374M2/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/patri/Downloads/ECE_3574/ECE374M2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/patri/Downloads/ECE_3574/ECE374M2/build/CMakeFiles/ZERO_CHECK.dir

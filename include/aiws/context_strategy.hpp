@@ -14,13 +14,11 @@ namespace aiws {
 class ContextStrategy {
 public:
     // TODO: make destruction safe through a base-class pointer.
-    ~ContextStrategy() = default;
+    virtual ~ContextStrategy() = default;
 
     // TODO: make this a required polymorphic operation.
-    virtual std::vector<ContextItem> build(const std::vector<SearchResult>&,
-                                           std::size_t) const {
-        return {};
-    }
+    virtual std::vector<ContextItem> build(const std::vector<SearchResult>& ranked,
+                                           std::size_t token_budget) const = 0;
 };
 
 }  // namespace aiws

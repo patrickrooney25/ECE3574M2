@@ -1,0 +1,37 @@
+Start testing: Sep 20 15:36 Eastern Daylight Time
+----------------------------------------------------------
+1/2 Testing: public_tests
+1/2 Test: public_tests
+Command: "C:/Users/patri/Downloads/ECE_3574/ECE374M2/build/Debug/public_tests.exe"
+Directory: C:/Users/patri/Downloads/ECE_3574/ECE374M2/build
+"public_tests" start time: Sep 20 15:36 Eastern Daylight Time
+Output:
+----------------------------------------------------------
+M2 public tests passed
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"public_tests" end time: Sep 20 15:36 Eastern Daylight Time
+"public_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: student_tests
+2/2 Test: student_tests
+Command: "C:/Users/patri/Downloads/ECE_3574/ECE374M2/build/Debug/student_tests.exe"
+Directory: C:/Users/patri/Downloads/ECE_3574/ECE374M2/build
+"student_tests" start time: Sep 20 15:36 Eastern Daylight Time
+Output:
+----------------------------------------------------------
+FAIL: runtime dispatch invokes custom context strat
+FAIL: Move assignment keeps custom strat
+2student test(s) failed.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Failed.
+"student_tests" end time: Sep 20 15:36 Eastern Daylight Time
+"student_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 20 15:36 Eastern Daylight Time
